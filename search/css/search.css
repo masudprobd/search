@@ -1,0 +1,12 @@
+ div.sticky {
+   position: -webkit-sticky;
+   position: sticky;
+   top: 0;
+   text-align: center;
+   background-color: #e4ebf5;
+   font-family: SolaimanLipi;
+   padding: 5px;
+   width:-webkit-fill-available;
+   }
+
+ .sticky{float:left;width:100%;position:relative;padding:4px 0;min-height:42px;z-index:999999}
